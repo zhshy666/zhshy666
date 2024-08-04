@@ -10,7 +10,7 @@
     },
     "avatar":{
         "src":"https://raw.githubusercontent.com/zhshy666/zhshy666/main/fig2.jpg",
-        "hidden":true
+        "hidden":false
     },
     "profile":{
         "name":"周诗洋",
