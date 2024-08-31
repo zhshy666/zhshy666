@@ -2,7 +2,7 @@
     "titleNameMap":{
         "educationList":"教育背景",
         "workExpList":"科研成果",
-        "projectList":"项目经历",
+        "projectList":"项目及实习经历",
         "skillList":"个人技能",
         "awardList":"更多信息",
         "workList":"个人作品",
@@ -71,11 +71,11 @@
     "skillList":[],
     "projectList":[
         {
-            "project_name":"基于时空维度的个股收益概率分布及其动态变化预测算法",
-            "project_role":"算法研究员",
-            "project_time":"2022.09 - 2024.06",
-            "project_desc":"基于对市场观察，学习和建模市场中的随机性和规律性，对股票的未来价格概率分布进行建模。",
-            "project_content":"负责算法研究及主要代码编写。通过扩散模型建模个股序列数据的概率分布，且定期根据新数据进行模型更新。"
+            "project_name":"阿里巴巴本地生活集团饿了么：基于 AIGC 的创意广告算法",
+            "project_role":"算法工程师",
+            "project_time":"2024.06 - 至今",
+            "project_desc":"通过建模用户对于菜品图像的偏好程度，生成更符合用户喜好的菜品图像，提升点击率。",
+            "project_content":"负责算法研究及主要代码编写。根据高/低点击率图像建模用户对于不同菜品的偏好，引导扩散模型将输入图像编辑为用户更偏好的高点击率图像。"
         },
         {
             "project_name":"智慧城市：气象驱动的城市治理相关事件预测算法",
